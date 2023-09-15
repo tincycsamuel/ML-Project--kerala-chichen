@@ -1,2 +1,2 @@
-# ML-Project--kerala-chichen
+# ML-Project--kerala-chicken
 KERALA CHICKEN ERNAKULAM SALES 2023 REPORT ANALAYSIS up to 18/8/2023
